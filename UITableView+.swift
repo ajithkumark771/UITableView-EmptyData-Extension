@@ -1,7 +1,5 @@
 //
 //  UITableView+.swift
-//  JKShah-Online
-//
 //  Created by ajith on 17/06/20.
 //  Copyright © 2020 ajith. All rights reserved.
 //
