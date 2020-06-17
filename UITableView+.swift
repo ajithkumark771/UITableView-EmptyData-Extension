@@ -24,3 +24,7 @@ extension UITableView{
         backgroundView = nil
     }
 }
+
+
+//usage 
+ self.tableView.updateEmptyState(rowsCount: array.count, emptyMessage: "No data Found")
